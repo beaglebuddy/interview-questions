@@ -16,15 +16,15 @@ as comments) if the specs are unclear.
 
 We would like for you to do the following to complete this task:
 
-  1) create a github account if you don't already have one (it is free)
+    1) create a github account if you don't already have one (it is free)
 
-  2) fork this project (this will copy this project to your account)
+    2) fork this project (this will copy this project to your account)
 
-  3) pull down the code to your local machine and complete the exercises
+    3) pull down the code to your local machine and complete the exercises
 
-  4) commit your changes and push your code back up to your repo on github
+    4) commit your changes and push your code back up to your repo on github
 
-  5) send me an email and let me know you are done.
+    5) send me an email and let me know you are done.
 
 I'll ask the interview team to review your code and I'll let you know 
 when we are done so that you can delete the repository if you wish.
