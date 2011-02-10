@@ -6,9 +6,11 @@ a handful of test cases that exercise your design.  There are two files
 in this directory:
 
 *Money.java*
+
 - Implement your Money class in this file.  It is currently empty
 
 *MoneyTest.java*
+
 - fill out the implementation of the test methods that are defined
   in this class.  We have named various test methods that we would
   like you to implement to test out your class
